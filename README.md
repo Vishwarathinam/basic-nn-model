@@ -47,9 +47,9 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-Developed by : vishwa rathinam.S
-Reg.no : 212221240063
-Program to develop a neural network regression model
+ Developed by : vishwa rathinam.S
+ Reg.no : 212221240063
+ Program to develop a neural network regression model
 ~~~
 
 ### To Read CSV file from Google Drive :
